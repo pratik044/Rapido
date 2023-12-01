@@ -8,7 +8,7 @@ public class RapidoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RapidoApplication.class, args);
-		System.out.println("hii");
+		System.out.println("CR7");
 	}
 
 }
