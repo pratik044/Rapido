@@ -30,7 +30,7 @@
 	</dependencies>
 
 	<build>
-	<finalName>RapidoApp</finalName>
+	<finalName>Rapidoapp</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
